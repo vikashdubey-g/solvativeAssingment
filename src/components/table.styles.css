@@ -1,0 +1,15 @@
+.country_column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: "10px";
+}
+
+td,
+th {
+    padding: 8px;
+}
+
+th {
+    font-weight: 700;
+}
